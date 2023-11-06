@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"origins-classes:war_god/axe_god",
+		"origins-classes:war_god/warrior",
+		"origins-classes:war_god/philza_reference"
+	],
+	"icon": "minecraft:iron_axe",
+	"order": 10,
+	"impact": 2,
+	"name": "War God",
+	"description": "Inspired by the War God in the Passerine fanfic."
+}

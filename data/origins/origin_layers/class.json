@@ -1,0 +1,19 @@
+{
+  "order":10,
+  "origins":[
+     "origins-classes:war_god"
+  ],
+  "enabled":true,
+  "replace":false,
+  "gui_title":{
+   "choose_origin":"Choose your Class",
+   "view_origin":"This is your Class."
+  },
+  "missing_name": "Missing",
+  "missing_description": "You do not have a Class.",
+  "allow_random": true,
+  "allow_random_unchoosable": false,
+  "auto_choose": false,
+  "hidden": false,
+  "loading_priority":1
+}

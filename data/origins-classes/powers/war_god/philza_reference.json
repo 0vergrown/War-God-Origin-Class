@@ -1,0 +1,18 @@
+{
+    "name": "Philza Reference",
+    "description": "Elytrians deals double damage when attacking you.",
+    "type": "origins:modify_damage_taken",
+    "damage_condition": {
+        "type": "origins:attacker",
+        "entity_condition": {
+            "type": "origins:origin",
+            "origin": "origins:elytrian",
+            "layer": "origins:origin"
+        }
+    },
+    "modifier": {
+        "name": "Weakness to Elytrians",
+        "operation": "addition",
+        "value": 5.5
+    }
+}
