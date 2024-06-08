@@ -1,14 +1,35 @@
-## ⚔️ **War God Class: Ascend to Mythic Battle Heights!** ⚔️
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0vergrown/War-God-Origin-Class/main/pack.png" alt="War God Origin Class Cover"/>
+</p>
 
-Rise above the common fray and channel the might of ancient legends with the War God class!
+# ⚔️ War God Origin Class ⚔️
 
-### 🌟 **Why Choose the War God Class?** 🌟
-- **Axe Mastery**: Wield axes with devastating prowess, striking fear and heavy damage into the hearts of your enemies.
-- **Epic Duels**: The sky-bound Elytrians challenge you with double the ferocity, honoring you as a true warrior.
-- **Battle-Forged Strength**: Feel the Warrior's adrenaline surge, every encounter could be your moment to shine with a 50% chance to activate your latent strength.
+**This Pack Adds:**
+- Custom Origin Class
 
-### 💡 **Become the Ultimate Warrior** 💡
-- It's designed for those who seek the thrill of battle and the glory of conquest. With this class, you're not just playing; you're rewriting the annals of Minecraft history.
+**Origin Detail:**
 
-### 🌐 **Join the Pantheon of Heroes!** 🌐
-- Step into a realm where every battle is an epic saga, and every strike writes a verse of your legend. Download the War God class now and ascend to your rightful place among the Minecraft deities!
+**Icon**: Iron Axe\
+**Impact**: 🟡🟡\
+**Description**: Inspired by the War God in the Passerine fanfic.
+
+*Positive* 🟢:
+- **Axe God**: You deal more damage with axes.
+- **Warrior**: Adrenaline rushes through your veins when the thought of a good battle comes to mind. You have a 50% chance of getting Strength II when hit.
+
+*Negative* 🔴:
+- **Philza Reference**: Elytrians deals double damage when attacking you.
+
+---
+## Dependencies
+This datapack requires the following to function properly:
+- [Fabric Loader](https://fabricmc.net/) - Recommend loader the mods run on.
+- [Fabric API](https://fabricmc.net/use/) - Necessary for running mods in the Fabric mod loader environment.
+- [Origins Mod](https://github.com/apace100/origins-fabric) - A Minecraft mod that allows you to choose an Origin at the beginning, granting various abilities and drawbacks.
+
+## Installation
+To install the War God Origin Class datapack, follow these steps:
+1. Make sure you have all dependencies installed.
+2. Download the latest release of War God Origin Class from the [release page](https://modrinth.com/datapack/war-god-class).
+3. Place the downloaded file in the `datapacks` folder of your Minecraft world directory.
+4. Restart your Minecraft world or use `/reload` if the world is already running.
